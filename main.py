@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# Student name (Student ID): Lai Siu Kwok (12354991)
+# Student name (Student ID): Lai Siu Kwok (12354991), Lo Shi Sam (12339625), Hung Chun Kwong (12358793)
 
 # # Problem Definition
 
